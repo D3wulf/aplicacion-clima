@@ -1,4 +1,4 @@
-# aplicacion-clima
+# Aplicacion-clima // Lat // Lon
 # Ejecutar con node index
 
 # Las variables de entorno estan escondidas
